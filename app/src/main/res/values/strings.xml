@@ -3,4 +3,28 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nok_name">NOK by Alara</string>
+    <string name="nok_address">12a, Akin Olugbade St, Victoria Island, Lagos</string>
+    <string name="rsvp_name">RSVP</string>
+    <string name="rsvp_address">9, Eletu Ogabi St, Victoria Island 101001, Lagos</string>
+    <string name="george_name">The George</string>
+    <string name="george_address">30, Lugard Ave, Ikoyi, Lagos</string>
+    <string name="eko_name">Eko Hotels and Suites</string>
+    <string name="eko_address">1415, Adetokunbo Ademola Street, Victoria Island, Lagos</string>
+    <string name="crossroads_name">CrossRoads Cafe</string>
+    <string name="crossroads_address">1415, Adetokunbo Ademola Street, Victoria Island, Lagos</string>
+    <string name="federal_palace_name">Federal Palace</string>
+    <string name="federal_palace_address">6~8, Ahmadu Bello Way, Victoria Island, Lagos</string>
+    <string name="african_cathedral_name">The African Church Cathedral </string>
+    <string name="african_cathedral_address">59, Broad Street, Marina, Lagos Island, Lagos</string>
+    <string name="afrika_name">New Afrika Shrine</string>
+    <string name="afrika_address">Nerdc Rd, Agidingbi, Ikeja, Lagos</string>
+    <string name="theatre_name">National Arts Theatre</string>
+    <string name="theatre_address">Iganmu, Surulere, Lagos</string>
+    <string name="jhalobia_name">Jhalobia Recreation Park and Garden</string>
+    <string name="jhalobia_address">67, Muritala Mohammed International Airport Road, Orile Oshodi, Lagos</string>
+    <string name="paint_name">Paint and Bake</string>
+    <string name="paint_address">19 Admiralty Way, Eti-Osa, Lagos</string>
+    <string name="mall_name">Ikeja Shopping mall</string>
+    <string name="mall_address">174 / 194 Obafemi Awolowo Way, Alausa, Ikeja</string>
 </resources>
